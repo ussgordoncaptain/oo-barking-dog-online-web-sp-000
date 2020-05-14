@@ -1,2 +1,4 @@
 # Your code goes here!
-Class
+class Dog 
+  def intiialize
+end
