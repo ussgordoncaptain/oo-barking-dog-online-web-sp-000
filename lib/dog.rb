@@ -1,4 +1,7 @@
 # Your code goes here!
 class Dog 
-  def intiialize
+  def intiialize(name=nil)
+    @name=name
+  end
+  attr_accessor
 end
